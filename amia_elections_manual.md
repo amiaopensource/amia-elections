@@ -258,11 +258,11 @@ Campaign activities include any action or communication intended to support or o
 
 4. Voting Data. While voting is in progress, the AMIA Office may announce the total number of votes cast to date, or provide this information to AMIA members upon request. No other data will be provided until the polls close and the election or vote is certified. No voting data on specific voters will be compiled or maintained.
 
-5. Members. Individual Members and representatives of Institutional Members of AMIA may endorse candidates, and may publicly support or oppose ballet measures. Members may organize for the purpose of campaigning.
+5. Members. Individual Members and representatives of Institutional Members of AMIA may endorse candidates, and may publicly support or oppose ballot measures. Members may organize for the purpose of campaigning.
 
-6. Elections Committee and AMIA Office. Neither the Committee nor the Office, nor any individuals on the Committee or in the Office, may endorse candidates or publicly support or oppose ballet measures.
+6. Elections Committee and AMIA Office. Neither the Committee nor the Office, nor any individuals on the Committee or in the Office, may endorse candidates or publicly support or oppose ballot measures.
 
-7. Board of Directors. Neither the Board, its members acting in official capacities, nor any of its committees and task forces may endorse or otherwise support candidates running for positions on the Board. The Board may, however, support or oppose ballet measures and campaign accordingly, subject to these guidelines and rules.
+7. Board of Directors. Neither the Board, its members acting in official capacities, nor any of its committees and task forces may endorse or otherwise support candidates running for positions on the Board. The Board may, however, support or oppose ballot measures and campaign accordingly, subject to these guidelines and rules.
 
 ### D. Corrective Actions.
 
@@ -416,7 +416,7 @@ AMIA holds association-wide votes on ballot measures as directed or agreed to by
 
 To date, all ballot measures in AMIA elections have represented proposed changes in the AMIA Bylaws that require votes of the Individual Members for adoption. In such cases, approval of a majority of the Individual Members is required for passage. However, ballot measures can also be used to decide non-Bylaws issues. In such cases, the Board determines the percentage of votes required for passage.
 
-The process of voting on a ballot measure closely parallels the process for a board election; and votes on ballet measures are usually (and most conveniently) scheduled to coincide with the annual election of officers and directors to the Board. Below is an outline of the voting process for a ballot measure, with references to board elections (Section VI) as applicable.
+The process of voting on a ballot measure closely parallels the process for a board election; and votes on ballot measures are usually (and most conveniently) scheduled to coincide with the annual election of officers and directors to the Board. Below is an outline of the voting process for a ballot measure, with references to board elections (Section VI) as applicable.
 
 ### A. Scheduling the Vote.
 
