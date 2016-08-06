@@ -100,7 +100,7 @@ The Elections Committee has primary responsibility for AMIA's board elections an
 
 1. Election Schedule. In consultation with the AMIA Office, the Committee establishes, announces and implements schedules for conducting association-wide elections, including the annual board elections and votes on ballot measures.
 
-2. Nomination of Candidates: The Committee assembles a strong and balanced preliminary slate of candidates . This slate is developed through discussion within the Committee and nomination from the AMIA membership.
+2. Nomination of Candidates: The Committee assembles a strong and balanced preliminary slate of candidates. This slate is developed through discussion within the Committee and nomination from the AMIA membership.
 
     In so doing, the Committee:
 
