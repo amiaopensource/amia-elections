@@ -4,7 +4,7 @@
 
 AMIA's elections are vitally important to the future of the Association and its ability to serve the moving image archive community. They seek to ensure effective leadership throughout the Association, and in some cases to decide major Association-wide issues. They also reaffirm AMIA's commitment to being a member-driven, democratic organization of professional colleagues.
 
-In general, AMIA conducts three types of elections: board elections to select officers and directors for the Board of Directors; votes on ballot measures usually held in conjunction with board elections; and committee elections to select chairpersons for Committees of the Membership. Conducting any of these elections can be a complex and demanding process. It involves the Elections Committee, the Board of Directors, the Office, the candidates, and the Individual Members of the Association or a Committee of the Membership. It must adhere to all legal requirements set forth in the Bylaws. It must be (and must be perceived to be) fair and democratic, and it must be completed within a specific time frame often with a fixed deadline, such as AMIA's annual conference.
+In general, AMIA conducts three types of elections: board elections to select officers and directors for the Board of Directors; votes on ballot measures usually held in conjunction with board elections; and committee elections to select chairpersons for Committees of the Membership. Conducting any of these elections can be a complex and demanding process. It involves the Elections Committee, the Board of Directors, the Office, the candidates, and the Individual Members of the Association or a Committee of the Membership. It must adhere to all legal requirements set forth in the Bylaws[^bylaws]. It must be (and must be perceived to be) fair and democratic, and it must be completed within a specific time frame often with a fixed deadline, such as AMIA's annual conference.
 
 This Elections Manual is intended to help in planning and managing AMIA's elections. It has been approved by the Board in consultation with the Elections Committee and is designed to serve four basic purposes:
 
@@ -46,7 +46,7 @@ The Board of Directors has broad oversight authority over AMIA's elections. It e
 
 1. The Elections Committee. The Elections Committee is a Committee of the Board. The Board determines the size of the Committee; the Board appoints the chairperson and other members.
 
-    a. The Committee should consist of three (3) or more Individual Members of AMIA. An odd number of members is recommended.
+    a. The Committee shall consist of three (3) or more Individual Members of AMIA. An odd number of members is recommended.
 
     b. Anyone serving as a Director of the Board must not serve as a member of the Committee. Anyone intending to run for a position on the Board must not serve as a member of the Committee.
 
@@ -204,7 +204,7 @@ AMIA conducts three types of elections: board elections to select officers (Pres
 
 6. Board elections are by electronic ballot utilizing an online voting service selected by the Board of Directors, in consultation with the Elections Committee and the AMIA Office.
 
-7. Schedule. The board election should be completed a minimum of six weeks prior to the annual AMIA Conference. Below is a sample schedule with recommended timeframes for key milestones in the election process. This schedule assumes the conference occurs in October. It is provided here solely as a rough guide.
+7. Schedule. The board election should be completed a minimum of six weeks prior to the annual AMIA Conference [^bylaws.time]. Below is a sample schedule with recommended timeframes for key milestones in the election process. This schedule assumes the conference occurs in October. It is provided here solely as a rough guide.
 
     a. December-January: The Board of Directors appoints the Elections Committee, and one of its own members as liaison to the committee.
 
@@ -306,7 +306,7 @@ Verification of the petitions will be conducted by the Elections Committee and w
 
     The Committee does not make final decisions on whom to nominate until after the deadline for AMIA members to submit recommendations, and after the Committee has completed its research and has ample time to discuss its options.
 
-2. The Committee checks to determine that each prospective candidate is qualified under the AMIA Bylaws to serve on the Board of Directors. Only Individual Members of AMIA are eligible to be officers and directors; members should have joined AMIA prior to being nominated.
+2. The Committee checks to determine that each prospective candidate is qualified[^qualified] under the AMIA Bylaws to serve on the Board of Directors. Only Individual Members of AMIA are eligible to be officers and directors; members should have joined AMIA prior to being nominated.
 
 3. The Committee contacts each prospective candidate to determine if he or she is willing to be nominated and serve if elected. No one may be nominated without his or her consent, but a willingness to run does not guarantee nomination.
 
@@ -352,7 +352,7 @@ The Elections Committee and the AMIA Office work together in gathering election 
 
 ### G. Announcing the Election.
 
-The Elections Committee announces the election to the AMIA membership. The AMIA Office assists with the announcement, as requested by the Committee.
+The Elections Committee announces the election to the AMIA membership[^bylaws.electionannoucement]. The AMIA Office assists with the announcement, as requested by the Committee.
 
 1. The Committee develops and implements an announcement plan, which may make use of the AMIA Newsletter, AMIA-Member list, AMIA-L, email blasts and/or special mailings. The Committee need not use all of these communication organs, but should not rely on only one to reach all eligible voters.
 
@@ -408,7 +408,7 @@ The Elections Committee announces the election results to the AMIA membership. T
 
     This policy is intended to meet two objectives. a) to ensure that vote counts are not suppressed but remain easily obtainable by any member who wants to know them; and b) to encourage members to run without concern of being publicly embarrassed by lack of support.
 
-4. The Office ensures the election information, including the vote counts, is retained as required by AMIA's document retention policy.
+4. The Office ensures the election information, including the vote counts, is retained as required by AMIA's document retention policy[^bylaws.retention].
 
 ## Section VII: Votes on Ballot Measures
 
@@ -556,13 +556,13 @@ Good directors are people of principle. They have integrity and open minds, and 
 
 Finally, a genuine interest in moving images and a commitment to the field is indispensable. If the AMIA Board is to inspire and lead the Association, its directors must sincerely care about the field and our moving image heritage.
 
-## Appendix B: Additional Resources
+## Appendix B: Normative References
 
-#### AMIA Documents
+### AMIA Bylaws
 
-The AMIA Bylaws. Available through Member Central on the AMIA web site at: http://www.amianet.org/resources/AMIAManuals/Bylaws_060501.pdf
+The AMIA Bylaws. Available through Member Central on the AMIA web site at: http://amianet.org/sites/all/files/BYLAWS%20-%202010%20Amended%20and%20Restated.pdf
 
-#### Additional Reading
+## Appendix C: Additional Resources
 
 Cox, John B. (ed.). Professional Practices in Association Management. ASAE: Washington, DC. 2002
 
@@ -573,3 +573,9 @@ Howe, Fisher. Welcome to the Board: Your Guide to Effective Participation. The J
 Overton, G. W. (ed.). Guidebook for Directors of Nonprofit Corporations. Chicago: American Bar Association, 1993.
 
 Wilbur, Robert H. (ed.). "Working Together: Maximizing Board and Staff Effectiveness" in The Complete Guide to Nonprofit Management. Second edition. John Wiley & Sons, Inc., 2000. Pages 27-40.
+
+[^bylaws]: [http://amianet.org/sites/all/files/BYLAWS%20-%202010%20Amended%20and%20Restated.pdf](http://amianet.org/sites/all/files/BYLAWS%20-%202010%20Amended%20and%20Restated.pdf)
+[^bylaws.time]: Please note election timeline mandates as expressed by the AMIA Bylaws, in particular Article III §6(i)(ii)(A) and §6(m)(i).
+[^qualified]: A qualified AMIA Member must meet the definition of `Good Standing` as defined by the AMIA Bylaws Article III §3.
+[^bylaws.electionannoucement]: Further requirements of the announcement of the election are detailed in the AMIA Bylaws Article III §6(i)(ii)(A).
+[^bylaws.retention]: The document retention policy of AMIA is described in the AMIA Bylaws in Article III §6(i)(ii)(D).
