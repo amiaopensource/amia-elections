@@ -46,7 +46,7 @@ The Board of Directors has broad oversight authority over AMIA's elections. It e
 
 1. The Elections Committee. The Elections Committee is a Committee of the Board. The Board determines the size of the Committee; the Board appoints the chairperson and other members.
 
-    a. The Committee should consist of three (3) or more Individual Members of AMIA. An odd number of members is recommended.
+    a. The Committee shall consist of three (3) or more Individual Members of AMIA. An odd number of members is recommended.
 
     b. Anyone serving as a Director of the Board must not serve as a member of the Committee. Anyone intending to run for a position on the Board must not serve as a member of the Committee.
 
