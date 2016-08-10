@@ -14,3 +14,6 @@ and the Bylaws state in Article VI §2(b)(i)
 
 It is recommended that the mandate language of both is changes to `shall` and that both reference a minimum of 3 members.
 
+## Bylaws. Election Time Constraints
+
+Several sections of the Bylaws, such as Article III §6(m)(i) reference time obligations based upon "the data of the election". The requirements should be clarified to reference either start and/or end of the elections as recent tendency is for long, open elections rather than elections occuring within a single day at a meeting.
