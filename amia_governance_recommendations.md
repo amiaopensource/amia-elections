@@ -17,3 +17,5 @@ It is recommended that the mandate language of both is changes to `shall` and th
 ## Bylaws. Election Time Constraints
 
 Several sections of the Bylaws, such as Article III §6(m)(i) reference time obligations based upon "the data of the election". The requirements should be clarified to reference either start and/or end of the elections as recent tendency is for long, open elections rather than elections occuring within a single day at a meeting.
+
+The timing requirements on the Election were likely established at a time when the pace of the postal system had a significant impact on how timely an election could be carried out. It is recommended that the timing requirements be reviewed to support a more responsive and modern pace.
