@@ -560,7 +560,7 @@ Finally, a genuine interest in moving images and a commitment to the field is in
 
 #### AMIA Documents
 
-The AMIA Bylaws. Available through Member Central on the AMIA web site at: http://www.amianet.org/resources/AMIAManuals/Bylaws_060501.pdf
+The AMIA Bylaws. Available through Member Central on the AMIA web site at: http://amianet.org/sites/all/files/BYLAWS%20-%202010%20Amended%20and%20Restated.pdf
 
 #### Additional Reading
 
