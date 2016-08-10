@@ -556,13 +556,13 @@ Good directors are people of principle. They have integrity and open minds, and 
 
 Finally, a genuine interest in moving images and a commitment to the field is indispensable. If the AMIA Board is to inspire and lead the Association, its directors must sincerely care about the field and our moving image heritage.
 
-## Appendix B: Additional Resources
+## Appendix B: Normative References
 
-#### AMIA Documents
+### AMIA Bylaws
 
 The AMIA Bylaws. Available through Member Central on the AMIA web site at: http://amianet.org/sites/all/files/BYLAWS%20-%202010%20Amended%20and%20Restated.pdf
 
-#### Additional Reading
+## Appendix C: Additional Resources
 
 Cox, John B. (ed.). Professional Practices in Association Management. ASAE: Washington, DC. 2002
 
